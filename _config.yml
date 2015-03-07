@@ -25,7 +25,8 @@ permalink: pretty
 social:
   - title: Contacto
     url: mailTo:dreamecDpii@gmail.com
+    icon: gmail
   - title: Productos
     url: "#product"
   - title: Servicios
-    url:
+    url: "#services"
