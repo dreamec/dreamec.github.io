@@ -2,6 +2,7 @@
 layout: default
 img: dog.png
 category: Services
+ref: services
 title: <a name="services"></a>3D Device Mockups<br>by PSDCovers
 description: |
   <p class="lead">Turn your 2D designs into high quality, 3D
