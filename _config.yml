@@ -28,5 +28,7 @@ social:
     icon: envelope
   - title: Productos
     url: "#product"
+    icon: th-large
   - title: Servicios
     url: "#services"
+    icon: cloud
