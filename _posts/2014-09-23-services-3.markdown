@@ -2,11 +2,10 @@
 layout: default
 img: phones.png
 category: Services
-title: <a name="contact"></a>Google Web Fonts and<br>Font Awesome Icons
+title: Servicios de mantemiento y asistencia técnica
 description: |
-  <p class="lead">This template features the 'Lato' font,
-  part of the <a target="_blank" href="http://www.google.com/fonts">Google
-  Web Font library</a>, as well as <a target="_blank"
-  href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+  <p class="lead">Nos gusta que nuestros clientes se sientan cómodos en todo
+    momento, por eso estamos disponibles para ayudarte en todo lo que necesites
+    conocer o solucionar acerca de la configuración de tus módulos.</p>
 
 ---

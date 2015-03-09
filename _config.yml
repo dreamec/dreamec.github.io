@@ -5,10 +5,9 @@
 url: http://dreamec.github.io
 title: Dreamec
 email: dreamecDpii@gmail.com
-description: > # "Write an awesome description for your new site here.
-  You can edit this line in _config.yml. It will appear in your document
-  head meta (for Google search results) and in your feed.xml site
-  description. "
+description: > # "Somos una empresa joven dedicada al sector de los Sistemas Inteligentes en web.
+    Trabajamos con sistemas de minería de datos, sistemas expertos y servicios de implantación de éstos en
+    webs."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,6 +25,9 @@ social:
   - title: Contacto
     url: mailTo:dreamecDpii@gmail.com
     icon: envelope
+  - title: Twitter
+    url: https://twitter.com/DreamecES
+    icon: twitter
   - title: Productos
     url: "#product"
     icon: th-large
