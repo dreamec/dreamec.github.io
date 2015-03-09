@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: dataMining2.png
 category: Services
 ref: product
 title: Productos:<br>Sistemas Expertos y<br> de Minería de datos

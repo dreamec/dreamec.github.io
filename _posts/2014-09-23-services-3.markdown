@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: asistencia.png
 category: Services
 title: Servicios de mantemiento y asistencia técnica
 description: |
