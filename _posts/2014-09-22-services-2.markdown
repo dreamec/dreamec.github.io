@@ -1,6 +1,6 @@
 ---
 layout: default
-img: iaComercio.png
+img: iaComercio2.png
 category: Services
 ref: services
 title: Servicios Premium<br>Personalización
