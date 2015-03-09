@@ -34,3 +34,11 @@ social:
   - title: Servicios
     url: "#services"
     icon: cloud
+
+contact:
+    - title: Contacto
+    url: mailTo:dreamecDpii@gmail.com
+    icon: envelope
+  - title: Twitter
+    url: https://twitter.com/DreamecES
+    icon: twitter
